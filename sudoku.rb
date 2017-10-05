@@ -13,7 +13,7 @@ class SudokuGame
   def get_pos
     pos = nil
     # raise "This is the easiest error you're gonna get, chief.
-    # It only gets harder going forward.  
+    # It only gets harder going forward.
     # Remove me (or comment me out), re-run the code to make sure
     # it works, and go on to the next level"
 
